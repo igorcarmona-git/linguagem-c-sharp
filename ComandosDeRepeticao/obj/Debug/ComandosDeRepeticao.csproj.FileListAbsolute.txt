@@ -1,0 +1,15 @@
+C:\Users\Lab-02\source\repos\Aula\ComandosDeRepeticao\bin\Debug\ComandosDeRepeticao.exe.config
+C:\Users\Lab-02\source\repos\Aula\ComandosDeRepeticao\bin\Debug\ComandosDeRepeticao.exe
+C:\Users\Lab-02\source\repos\Aula\ComandosDeRepeticao\bin\Debug\ComandosDeRepeticao.pdb
+C:\Users\Lab-02\source\repos\Aula\ComandosDeRepeticao\obj\Debug\ComandosDeRepeticao.csprojAssemblyReference.cache
+C:\Users\Lab-02\source\repos\Aula\ComandosDeRepeticao\obj\Debug\ComandosDeRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\Lab-02\source\repos\Aula\ComandosDeRepeticao\obj\Debug\ComandosDeRepeticao.exe
+C:\Users\Lab-02\source\repos\Aula\ComandosDeRepeticao\obj\Debug\ComandosDeRepeticao.pdb
+C:\Users\igorc\Desktop\Codes Prog\Códigos FP2\Prog. Language C#\ComandosDeRepeticao\bin\Debug\ComandosDeRepeticao.exe.config
+C:\Users\igorc\Desktop\Codes Prog\Códigos FP2\Prog. Language C#\ComandosDeRepeticao\bin\Debug\ComandosDeRepeticao.exe
+C:\Users\igorc\Desktop\Codes Prog\Códigos FP2\Prog. Language C#\ComandosDeRepeticao\bin\Debug\ComandosDeRepeticao.pdb
+C:\Users\igorc\Desktop\Codes Prog\Códigos FP2\Prog. Language C#\ComandosDeRepeticao\obj\Debug\ComandosDeRepeticao.csproj.AssemblyReference.cache
+C:\Users\igorc\Desktop\Codes Prog\Códigos FP2\Prog. Language C#\ComandosDeRepeticao\obj\Debug\ComandosDeRepeticao.csproj.SuggestedBindingRedirects.cache
+C:\Users\igorc\Desktop\Codes Prog\Códigos FP2\Prog. Language C#\ComandosDeRepeticao\obj\Debug\ComandosDeRepeticao.csproj.CoreCompileInputs.cache
+C:\Users\igorc\Desktop\Codes Prog\Códigos FP2\Prog. Language C#\ComandosDeRepeticao\obj\Debug\ComandosDeRepeticao.exe
+C:\Users\igorc\Desktop\Codes Prog\Códigos FP2\Prog. Language C#\ComandosDeRepeticao\obj\Debug\ComandosDeRepeticao.pdb

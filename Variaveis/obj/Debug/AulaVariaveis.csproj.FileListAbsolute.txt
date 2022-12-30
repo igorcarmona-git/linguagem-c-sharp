@@ -1,0 +1,7 @@
+C:\Users\Lab-02\source\repos\Aula\Aula\bin\Debug\Aula.exe.config
+C:\Users\Lab-02\source\repos\Aula\Aula\bin\Debug\Aula.exe
+C:\Users\Lab-02\source\repos\Aula\Aula\bin\Debug\Aula.pdb
+C:\Users\Lab-02\source\repos\Aula\Aula\obj\Debug\AulaVariaveis.csprojAssemblyReference.cache
+C:\Users\Lab-02\source\repos\Aula\Aula\obj\Debug\AulaVariaveis.csproj.CoreCompileInputs.cache
+C:\Users\Lab-02\source\repos\Aula\Aula\obj\Debug\Aula.exe
+C:\Users\Lab-02\source\repos\Aula\Aula\obj\Debug\Aula.pdb

@@ -1,0 +1,15 @@
+C:\Users\Lab-02\source\repos\Aula\Registro\bin\Debug\Registro.exe.config
+C:\Users\Lab-02\source\repos\Aula\Registro\bin\Debug\Registro.exe
+C:\Users\Lab-02\source\repos\Aula\Registro\bin\Debug\Registro.pdb
+C:\Users\Lab-02\source\repos\Aula\Registro\obj\Debug\Registro.csproj.CoreCompileInputs.cache
+C:\Users\Lab-02\source\repos\Aula\Registro\obj\Debug\Registro.exe
+C:\Users\Lab-02\source\repos\Aula\Registro\obj\Debug\Registro.pdb
+C:\Users\Lab-02\source\repos\Aula\Registro\obj\Debug\Registro.csprojAssemblyReference.cache
+C:\Users\igorc\Desktop\Codes Prog\Códigos FP2\Prog. Language C#\Registro\bin\Debug\Registro.exe.config
+C:\Users\igorc\Desktop\Codes Prog\Códigos FP2\Prog. Language C#\Registro\bin\Debug\Registro.exe
+C:\Users\igorc\Desktop\Codes Prog\Códigos FP2\Prog. Language C#\Registro\bin\Debug\Registro.pdb
+C:\Users\igorc\Desktop\Codes Prog\Códigos FP2\Prog. Language C#\Registro\obj\Debug\Registro.csproj.AssemblyReference.cache
+C:\Users\igorc\Desktop\Codes Prog\Códigos FP2\Prog. Language C#\Registro\obj\Debug\Registro.csproj.SuggestedBindingRedirects.cache
+C:\Users\igorc\Desktop\Codes Prog\Códigos FP2\Prog. Language C#\Registro\obj\Debug\Registro.csproj.CoreCompileInputs.cache
+C:\Users\igorc\Desktop\Codes Prog\Códigos FP2\Prog. Language C#\Registro\obj\Debug\Registro.exe
+C:\Users\igorc\Desktop\Codes Prog\Códigos FP2\Prog. Language C#\Registro\obj\Debug\Registro.pdb

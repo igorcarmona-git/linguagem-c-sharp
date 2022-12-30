@@ -1,0 +1,15 @@
+C:\Users\Lab-02\source\repos\Aula\Modularizacao\bin\Debug\Modularizacao.exe.config
+C:\Users\Lab-02\source\repos\Aula\Modularizacao\bin\Debug\Modularizacao.exe
+C:\Users\Lab-02\source\repos\Aula\Modularizacao\bin\Debug\Modularizacao.pdb
+C:\Users\Lab-02\source\repos\Aula\Modularizacao\obj\Debug\Modularizacao.csproj.CoreCompileInputs.cache
+C:\Users\Lab-02\source\repos\Aula\Modularizacao\obj\Debug\Modularizacao.exe
+C:\Users\Lab-02\source\repos\Aula\Modularizacao\obj\Debug\Modularizacao.pdb
+C:\Users\Lab-02\source\repos\Aula\Modularizacao\obj\Debug\Modularizacao.csprojAssemblyReference.cache
+C:\Users\igorc\Desktop\Codes Prog\Códigos FP2\Prog. Language C#\Modularizacao\bin\Debug\Modularizacao.exe.config
+C:\Users\igorc\Desktop\Codes Prog\Códigos FP2\Prog. Language C#\Modularizacao\bin\Debug\Modularizacao.exe
+C:\Users\igorc\Desktop\Codes Prog\Códigos FP2\Prog. Language C#\Modularizacao\bin\Debug\Modularizacao.pdb
+C:\Users\igorc\Desktop\Codes Prog\Códigos FP2\Prog. Language C#\Modularizacao\obj\Debug\Modularizacao.csproj.AssemblyReference.cache
+C:\Users\igorc\Desktop\Codes Prog\Códigos FP2\Prog. Language C#\Modularizacao\obj\Debug\Modularizacao.csproj.SuggestedBindingRedirects.cache
+C:\Users\igorc\Desktop\Codes Prog\Códigos FP2\Prog. Language C#\Modularizacao\obj\Debug\Modularizacao.csproj.CoreCompileInputs.cache
+C:\Users\igorc\Desktop\Codes Prog\Códigos FP2\Prog. Language C#\Modularizacao\obj\Debug\Modularizacao.exe
+C:\Users\igorc\Desktop\Codes Prog\Códigos FP2\Prog. Language C#\Modularizacao\obj\Debug\Modularizacao.pdb
